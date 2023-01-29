@@ -1,0 +1,14 @@
+
+ good evening welcome to the session
+ll
+
+
+
+
+
+
+;
+:wq
+
+[root@ip-172-31-38-203 ec2-user]# vi sample .sh
+
